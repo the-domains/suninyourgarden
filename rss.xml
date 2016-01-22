@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[suninyourgarden]]></title>
-        <description><![CDATA[suninyourgarden]]></description>
+        <title><![CDATA[Sun In Your Garden]]></title>
+        <description><![CDATA[Sun In Your Garden]]></description>
         <link>https://thegrid.ai/suninyourgarden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 12:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 12:12:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/suninyourgarden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b9c7e7-5d24-4394-a1e7-13f9cd7c1e47.jpg">]]></description>
             <link>https://thegrid.ai/suninyourgarden/42a7d5cc-9b10-4ee7-8962-0f551843199c/index.html</link>
             <guid isPermaLink="false">42a7d5cc-9b10-4ee7-8962-0f551843199c</guid>
-            <pubDate>Fri, 22 Jan 2016 12:00:16 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 12:11:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
