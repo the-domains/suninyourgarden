@@ -23,7 +23,7 @@ color:
     - '#feed95'
     - '#cc7236'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0
   saturation: 0
   rhythmicContrast: 0.5
 purpose: []
