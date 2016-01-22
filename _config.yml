@@ -23,7 +23,7 @@ color:
     - '#7f8000'
     - '#fb0003'
   brandStrength: 0
-  lightness: 0.25
+  lightness: 0.5625
   saturation: 0
   rhythmicContrast: 1
 purpose: []
